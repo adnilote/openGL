@@ -4,7 +4,6 @@ Visual Studio 2015 v140 + SOIL library
 
 -Executable file -  /bin/main.exe
 programm will be opened in ~20 sec
--resulted picture - /bin/result.jpg
 
 To move the camera click 'w'(forward)/'s(back)', 
 to turn it up/down/left/right use cursor/buttons
