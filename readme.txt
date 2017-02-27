@@ -1,5 +1,5 @@
 
-Windows 8 õ64
+Windows 8 x64
 Visual Studio 2015 v140 + SOIL library
 
 -Executable file -  /bin/main.exe
