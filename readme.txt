@@ -1,3 +1,4 @@
+SEE result.jpg
 
 Windows 8 x64
 Visual Studio 2015 v140 + SOIL library
