@@ -1,7 +1,6 @@
 3D Graphics with OpenGL
 
-![alt text](https://raw.githubusercontent.com/adnilote/openGL/master/result.jpg)
-
+![My Image](result.jpg)
 
 Windows 8 x64
 Visual Studio 2015 v140 + SOIL library
