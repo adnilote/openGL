@@ -1,6 +1,6 @@
 3D Graphics with OpenGL
 
-![alt text](https://github.com/adnilote/openGL/blob/master/result.jpg)
+![alt text](https://raw.githubusercontent.com/adnilote/openGL/master/result.jpg)
 
 
 Windows 8 x64
